@@ -2,5 +2,5 @@
 using namespace std;
 main()
 {
-    cout<<"hi"<<'\t';
+    cout<<'\a'<<"hi";
 }
